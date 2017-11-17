@@ -22,6 +22,6 @@ Exemplo de addClient:
 {
         "name": "nath",
 
-"email": "ncsoares2@gmail.com"
+"email": "ncs@gmail.com"
     
 }
