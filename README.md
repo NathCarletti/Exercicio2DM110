@@ -15,7 +15,9 @@ create sequence seq_client;
 
 Links:
 http://localhost:8081/dm110/hello
+
 http://localhost:8081/dm110/api/client/addClient
+
 http://localhost:8081/dm110/api/client/listAll
 
 Exemplo de addClient:
