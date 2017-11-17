@@ -21,8 +21,9 @@ http://localhost:8081/dm110/api/client/addClient
 http://localhost:8081/dm110/api/client/listAll
 
 Exemplo de addClient:
+
 {
-        "name": "nath",
+ "name": "nath",
 
 "email": "ncs@gmail.com"
     
